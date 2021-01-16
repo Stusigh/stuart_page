@@ -1,0 +1,40 @@
+body {
+    background-color:rgba(0, 0, 0, 0.9)
+}
+
+.jumbotron {
+    background-image: url("new_orleans.jpg");
+	background-size: cover;
+	width: 100%;
+	margin-top: -40px;
+	background-attachment: fixed;
+	background-position:  center -238px;
+}
+
+
+
+.jumbocont {
+    margin-left: 0px;
+}
+
+.jumbotron img {
+    height: 200px;
+}
+
+.welcomeText {
+    position: relative;
+    left: 200px;
+    bottom: 215px;
+    color:cornsilk;
+}
+.welcomeText p {
+    position: relative;
+    bottom: -25px;
+    background-color: rgba(0, 0, 0, 0.62)
+}   
+.card img {
+    height: auto;
+}
+.card {
+    background-color:rgba(95, 95, 95, 0.9)
+}
